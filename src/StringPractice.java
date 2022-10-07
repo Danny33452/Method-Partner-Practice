@@ -1,3 +1,7 @@
+/*
+ *   Author: Daniel
+ *   Date: 10/7/22
+ */
 public class StringPractice {
     public static void main(String[] args) {
         String gerald = "Hi Gerald";

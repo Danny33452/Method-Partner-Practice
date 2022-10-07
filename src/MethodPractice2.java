@@ -1,3 +1,7 @@
+/*
+ *   Author: Daniel
+ *   Date: 10/7/22
+ */
 import static java.lang.System.*;
 
 public class MethodPractice2 {
